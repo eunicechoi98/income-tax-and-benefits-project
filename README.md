@@ -17,8 +17,12 @@ Steps to filing an income tax & benefit return:
 Understanding tax slips:
 https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/tax-slips/understand-your-tax-slips.html
 
-** Which receipts should I keep for Taxes? **
+Which receipts should I keep for Taxes?**
 * https://turbotax.intuit.com/tax-tips/tax-planning-and-checklists/which-receipts-should-i-keep-for-taxes/L1VkHBoIc
 
-* Art of keeping receipts for taxes: https://turbotax.intuit.com/tax-tips/tax-planning-and-checklists/the-art-of-keeping-receipts-for-your-taxes/L2uVIrhyp
+Art of keeping receipts for taxes: 
+https://turbotax.intuit.com/tax-tips/tax-planning-and-checklists/the-art-of-keeping-receipts-for-your-taxes/L2uVIrhyp
+
+Basic Information about how to do taxes by Gov of Canada:
+https://www.canada.ca/content/dam/cra-arc/formspubs/pub/5000-g/5000g-17e.pdf
 
