@@ -1,0 +1,2 @@
+# income-tax-and-benefits-project
+I have never learned or understood to file my own taxes. I always thought "oh that's so confusing, I'm just gonna get my parents to do it for me". But, really, my parents don't know either, their accountant does. Do you know how? Why do most people have to pay other people to deal with this? Why couldn't it be easier? So I thought I would create a tool that could help people (me definitely included) when the time comes around for income tax szn!
